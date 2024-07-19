@@ -23,10 +23,10 @@ hasProcessingProvider=no
 # changelog=
 
 # Tags are comma separated with spaces allowed
-tags=python
+tags=qgis, python, latitude, longitude, survey, brazil
 
 homepage=https://github.com/LEOXINGU/lftools/wiki/LF-Tools-for-QGIS
-category=Plugins
+category=Topography
 icon=icon.png
 # experimental flag
 experimental=False
